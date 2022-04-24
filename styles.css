@@ -1,0 +1,51 @@
+body{
+    background-color: #191919;
+}
+
+.t-w{
+    color: #C84B31!important;
+}
+
+.t-ws {
+    color: #ECDBBA!important;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #ECDBBA;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+.nav-link:hover {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #C84B31;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    color: #2D4263;
+    background-color: #ECDBBA;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.table{
+    color: #ECDBBA;
+    border-color: #6c757d;
+}
+
+.card-header{
+    background-color: #191919;
+}
+.card-body{
+    background-color: #ECDBBA;
+}
+
+.btn{
+    color: #C84B31;
+}
+.btn:hover{
+    color: #adadad;
+}
